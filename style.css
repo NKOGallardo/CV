@@ -12,7 +12,7 @@ body {
     height: 100vh;
     padding: 30px;
     padding-top: 40px;
-    height: 640px;
+    height: 540px;
 }
 
 hr {
@@ -30,4 +30,10 @@ p {
 a {
     color: blue;
     text-decoration: none;
+}
+
+@media (max-width: 470px) {
+    .main {
+        height: 640px;
+    }
 }
