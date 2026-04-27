@@ -3,3 +3,4 @@
 https://nkogallardo.github.io/CV/
 
 https://roadmap.sh/projects/single-page-cv
+for learning
